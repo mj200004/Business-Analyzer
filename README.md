@@ -290,7 +290,9 @@ For issues, questions, or feature requests, please refer to the project document
 - PDF generation by FPDF2
 
 ---
-
+'''
+https://a-small-business-sales-profit-analyzer-cs6yrazrf8plm7ycsiee42.streamlit.app/
+'''
 
 **Last Updated**: 2026 
 **Author**: Moupriyo Jana (Infosys Springboard Intern)
